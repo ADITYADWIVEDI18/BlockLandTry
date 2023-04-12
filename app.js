@@ -22,7 +22,7 @@ particlesJS('particles-js',
           "value_area": 800
         }
       },
-      "color": {
+      "color": { 
         "value": "#ffffff"
       },
       "shape": {
