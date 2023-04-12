@@ -5,4 +5,4 @@ $(window).on("load",function(){
 function myFunction() {
     var element = document.body;
     element.classList.toggle("lightmode");}
-
+  
